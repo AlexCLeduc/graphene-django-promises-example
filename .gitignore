@@ -1,0 +1,13 @@
+venv/*
+*.pyc
+__pycache__
+*#
+*.swp
+*.swo
+.DS_Store
+.python-version
+githubtoken
+static_dist/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
